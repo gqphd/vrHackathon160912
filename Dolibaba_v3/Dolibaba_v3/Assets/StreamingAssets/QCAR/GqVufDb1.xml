@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="7B" size="50.000000 51.748253" />
+    <ImageTarget name="7A" size="50.000000 58.013542" />
+    <ImageTarget name="6A" size="50.000000 50.000000" />
+    <ImageTarget name="3A" size="50.000000 100.527702" />
+    <ImageTarget name="2A" size="50.000000 42.283466" />
+    <ImageTarget name="4A" size="50.000000 40.857143" />
+    <ImageTarget name="1B" size="50.000000 63.247173" />
+    <ImageTarget name="1A" size="50.000000 73.714760" />
+    <ImageTarget name="product_pocari_b4222" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>

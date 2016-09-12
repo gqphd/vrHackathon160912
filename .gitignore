@@ -32,12 +32,10 @@ sysinfo.txt
 /*/Release/
 
 #license issue
+**/(Commercial)*
+**/OVR/
+**/Vuforia/
+**/Plugins/
+**/GoogleVR/
 *.zip
-
-Dolibaba_v3/Dolibaba_v3/Assets/Vuforia/
-Dolibaba_v3/Dolibaba_v3/Assets/Plugins/
-Dolibaba_v3/Dolibaba_v3/Assets/OVR/
-Dolibaba_v3/Dolibaba_v3/Assets/(Commercial)EasyMovieTexture/
-Dolibaba_v3/Dolibaba_v3/Release/v1_Data/Plugins/
-Dolibaba_v3/Dolibaba_v3/Assets/(Commercial)EasyMovieTexture.meta
 Dolibaba_v3/Dolibaba_v3/Release/

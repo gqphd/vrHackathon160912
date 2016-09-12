@@ -13,8 +13,8 @@ For reader's concerned,
 Folders such as 'Easy Movie Texture' [1], 'OVR'[2], 'Vuforia'[3], 'GoogleVR'[4] and its corresponding files are removed intentionally. You can find that file after downloading on your own, and after purchasing one([1]) in unity asset store.
 And large video files in assetstore are intentionally deleted also due to github's large file policy[5]. Ask developer to get those files. That files can be provided with Dropbox link if necessary.
 
-[1]https://www.assetstore.unity3d.com/en/#!/content/10032
+[1]Easy Movie Texture (Video Texture) v3.11, https://www.assetstore.unity3d.com/en/#!/content/10032
 [2]Oculus Utilities for Unity 5 V1.7.0, https://developer3.oculus.com/downloads/
 [3]vuforia-unity-6-0-114.unitypackage, https://developer.vuforia.com/downloads/sdk
-[4]https://github.com/googlevr/gvr-unity-sdk, As of 160911
+[4]GoogleVR GVR Unity SDK v0.9.1, https://github.com/googlevr/gvr-unity-sdk, As of 160911
 [5]https://help.github.com/articles/working-with-large-files/
